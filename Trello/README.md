@@ -17,3 +17,11 @@ Trello 為一個看板的線上工具，
 ---
 
 ## Chrome 外掛
+
+- [Card History](./CardHistory/README.md)
+
+---
+
+[=> Top](#trello)
+
+[=> Go Back](../README.md)
